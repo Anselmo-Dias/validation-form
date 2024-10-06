@@ -21,7 +21,7 @@
 ## 📓 Resumo
 <br />
 
-Projeto criado com intuito de fortalecer os conhecimentos react 💙
+Projeto criado com intuito de fortalecer os conhecimentos em validação de formularios no react 💙
 ![image](https://user-images.githubusercontent.com/96529532/217265722-d562fa7d-4eea-4af6-9c12-c098a5d6c713.png)
 
 
